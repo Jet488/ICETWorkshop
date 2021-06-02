@@ -1,1 +1,1 @@
-# ICETWorkshop
+# ICTWorkshop
